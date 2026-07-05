@@ -84,13 +84,6 @@
     "summary": "42 canonical · 4 agent-candidate"
   },
   {
-    "href": "pokedex-ios-triage-2026-07-05.html",
-    "label": "Triage · pokedex-ios",
-    "repo": "eurekaffeine/Pokedex-iOS",
-    "day": "2026-07-05",
-    "summary": "1 reviews in · 0 created, 0 commented"
-  },
-  {
     "href": "pokedex-android-triage-2026-07-05.html",
     "label": "Triage · pokedex-android",
     "repo": "eurekaffeine/Pokedex-Android",
@@ -110,5 +103,12 @@
     "repo": "eurekaffeine/Pokedex-Android",
     "day": "2026-07-05",
     "summary": "44 canonical · 4 agent-candidate"
+  },
+  {
+    "href": "pokedex-ios-triage-2026-07-05.html",
+    "label": "Triage · pokedex-ios",
+    "repo": "eurekaffeine/Pokedex-iOS",
+    "day": "2026-07-05",
+    "summary": "0 reviews in · 0 created, 0 commented"
   }
 ]
