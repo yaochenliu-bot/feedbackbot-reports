@@ -112,17 +112,17 @@
     "summary": "0 reviews in · 0 created, 0 commented"
   },
   {
-    "href": "pokedex-ios-triage-2026-07-06.html",
-    "label": "Triage · pokedex-ios",
-    "repo": "eurekaffeine/Pokedex-iOS",
-    "day": "2026-07-06",
-    "summary": "1 reviews in · 0 created, 0 commented"
-  },
-  {
     "href": "pokedex-android-triage-2026-07-06.html",
     "label": "Triage · pokedex-android",
     "repo": "eurekaffeine/Pokedex-Android",
     "day": "2026-07-06",
     "summary": "5 reviews in · 0 created, 0 commented"
+  },
+  {
+    "href": "pokedex-ios-triage-2026-07-06.html",
+    "label": "Triage · pokedex-ios",
+    "repo": "eurekaffeine/Pokedex-iOS",
+    "day": "2026-07-06",
+    "summary": "0 reviews in · 0 created, 0 commented"
   }
 ]
